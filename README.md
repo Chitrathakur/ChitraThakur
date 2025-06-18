@@ -21,7 +21,7 @@ Interests: `UI/UX`, `Problem Solving`, `Web Design`
 ### 📫 Let's Connect!
 💌 Email: chitrathakur83145@gmail.com
 💼 Linkedin://www.linkedin.com/in/chitra-thakur2004/
-🔍 Leetcode://leetcode.com/u/YPuS8zpo70/
+🔍 Leetcode: https://leetcode.com/u/YPuS8zpo70/
 
 
 ### 🌸 Fun Fact:
