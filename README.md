@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Chitra Thakur! 💻
 
-<!--
-**Chitrathakur/ChitraThakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | 🧠 DSA Enthusiast | 🎨 Aspiring UI/UX Designer
 
-Here are some ideas to get you started:
+I'm a passionate creator and learner, currently exploring the world of Development and Design.
+I love building creative web interfaces, solving logical problems, and constantly leveling up my tech skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 Passionate about frontend/backend development and algorithms
+🌱 Currently learning **advanced DSA**
+🎨 Exploring **UI/UX Design** and tools like Figma & Adobe XD
+🛠️ Working on projects to sharpen skill
+
+
+### 🛠️ Tech Skills:
+Languages: `C++`, `JavaScript`, `HTML`, `CSS`
+Tools: `VS Code`, `Figma`, `Git`, `Canva`
+Interests: `UI/UX`, `Problem Solving`, `Web Design`
+
+
+### 📫 Let's Connect!
+💌 Email: chitrathakur83145@gmail.com
+💼 Linkedin://www.linkedin.com/in/chitra-thakur2004/
+🔍 Leetcode://leetcode.com/u/YPuS8zpo70/
+
+
+### 🌸 Fun Fact:
+I love creating mandala art and sketching imaginary characters when I’m not coding!
+
