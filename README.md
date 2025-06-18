@@ -2,7 +2,7 @@
 
 💻 Web Developer | 🧠 DSA Enthusiast | 🎨 Aspiring UI/UX Designer
 
-I'm a passionate creator and learner, currently exploring the world of Development and Design.
+I'm an aspiring creator and learner, currently exploring the world of Development and Design.
 I love building creative web interfaces, solving logical problems, and constantly leveling up my tech skills.
 
 
