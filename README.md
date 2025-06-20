@@ -4,7 +4,7 @@
 💻 Passionate about frontend/backend development and algorithms
 🌱 Currently learning **advanced DSA**
 🎨 Exploring **UI/UX Design** and tools like Figma & Adobe XD
-🛠️ Working on projects to sharpen skill
+🛠️ Working on projects to sharpen skills
 
 ---
 
