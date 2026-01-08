@@ -3,7 +3,7 @@
 💻 Computer Science Engineering Student (B.Tech 2022–2026)  
 🌱 Aspiring Software Engineer | Web Development Enthusiast  
 🚀 Actively building projects & moving towards learning and enhancing my skills 
-Strong Intrest in problem solving and clean code practices
+✨ Strong Intrest in problem solving and clean code practices
 
 ---
 
