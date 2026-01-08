@@ -1,17 +1,16 @@
 # 👋 Hi, I'm Chitra Thakur! 💻
 
-💻 Web Developer | 🧠 DSA Enthusiast | 🎨 Aspiring UI/UX Design
-💻 Passionate about frontend/backend development and algorithms
-🌱 Currently learning **advanced DSA**
-🎨 Exploring **UI/UX Design** and tools like Figma & Adobe XD
-🛠️ Working on projects to sharpen skills
+💻 Computer Science Engineering Student (B.Tech 2022–2026)  
+🌱 Aspiring Software Engineer | Web Development Enthusiast  
+🚀 Actively building projects & moving towards learning and enhancing my skills 
+Strong Intrest in problem solving and clean code practices
 
 ---
 
 ### 🛠️ Tech Skills:
-Languages: `C++`, `JavaScript`, `HTML`, `CSS`
-Tools: `VS Code`, `Figma`, `Git`, `Canva`
-Interests: `UI/UX`, `Problem Solving`, `Web Design`
+Languages: `C++`, `JavaScript`, `HTML`, `CSS`, `SQL`
+Tools: `VS Code`, `Figma`, `Git`, `Canva`, `Visme`
+Interests: `Problem Solving`, `Web Development`
 
 ---
 
